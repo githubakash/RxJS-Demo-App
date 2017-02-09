@@ -1,0 +1,32 @@
+{
+  "name": "rxjs-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubakash/RxJS-Demo-App.git"
+  },
+  "keywords": [
+    "rxjs"
+  ],
+  "author": "Akash Agarwal <akash.software.1982@gmail.com> (http://www.codingconcept2code.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githubakash/RxJS-Demo-App/issues"
+  },
+  "homepage": "https://github.com/githubakash/RxJS-Demo-App#readme",
+  "dependencies": {
+    "rxjs": "^5.1.0"
+  },
+  "devDependencies": {
+    "ts-loader": "^2.0.0",
+    "typescript": "^2.1.5",
+    "typings": "^2.1.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  }
+}
